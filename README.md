@@ -81,7 +81,7 @@ project/
 
 1. Откройте Blender
 2. Перейдите в Edit > Preferences > Add-ons
-3. Нажмите "Install" и выберите файл `__init__.py`
+3. Нажмите "Install" и выберите файл `blender_addon.zip`
 4. Активируйте плагин, установив галочку напротив "Scene Save Plugin Hellcake"
 
 ## Использование
